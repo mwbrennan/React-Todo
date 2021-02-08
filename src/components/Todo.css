@@ -1,0 +1,33 @@
+body {
+    background-color: teal;
+}
+
+.item {
+    background-color: pink;
+    padding: 2rem;
+    margin: 4px;
+    border-radius: 8px;
+}
+
+.itemcompleted {
+    background-color: purple;
+    text-decoration: line-through;
+    padding: 2rem;
+    margin: 4px;
+    border-radius: 8px;
+}
+
+.clearBtn, .addBtn {
+    width: 8rem;
+    height: 3rem;
+    border-radius: 4px;
+}
+
+.form {
+    width: 18rem;
+    height: 2.5rem;
+    border-radius: 4px;
+    color: black;
+    margin-right: 10px;
+  
+}
